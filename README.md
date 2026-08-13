@@ -1,16 +1,18 @@
-## Hi there 👋
+[Crehab_README.md](https://github.com/user-attachments/files/31017878/Crehab_README.md)
+# Hi there, I'm Rohan Badiger 👋
 
-<!--
-**Crehab/Crehab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech student in Computer Science and Engineering (AI & ML) based in Bengaluru, India. I am passionate about understanding how intelligent systems function beneath the surface and applying core programming concepts to build practical, high-performance applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** TypeScript, JavaScript, Python, Java, C
+- **Backend:** Node.js, WebSockets, Express
+- **Frontend:** Next JS, React
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+- **[Centralized Cryptocurrency Exchange](https://github.com/Crehab/centralized-exchange):** Building a real-time order matching engine with TypeScript, WebSockets, and Node.js.
+
+### 📫 How to reach me
+- **Email:** rohanbadiger4738@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/rohan-badiger-74b200332/](https://www.linkedin.com/in/rohan-badiger-74b200332/)
