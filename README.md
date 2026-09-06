@@ -4,7 +4,7 @@
 I am a B.Tech student in Computer Science and Engineering (AI & ML) based in Bengaluru, India. I am passionate about understanding how intelligent systems function beneath the surface and applying core programming concepts to build practical, high-performance applications.
 
 ### 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Python, Java, C
+- **Languages:** TypeScript, JavaScript, Python 
 - **Backend:** Node.js, WebSockets, Express
 - **Frontend:** Next JS, React
 - **Databases:** MySQL, PostgreSQL
